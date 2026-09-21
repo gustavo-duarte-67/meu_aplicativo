@@ -1,7 +1,7 @@
 console.log("================================");
 console.log("       MEU APLICATIVO");
 console.log("================================");
-console.log(" ");
+console.log("        ");
 console.log("Nome: Gustavo Duarte Lopes");
 console.log("Cidade: Schroeder");
 console.log("Atividade de interesse: jogos");
